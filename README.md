@@ -55,10 +55,8 @@ python face_recog_arduino.py
 * 오류 발생 시 face_recog_arduino.py 아두이노 포트 번호, 이미지파일 경로, json파일 경로, 모델 경로 확인
 ## Output
 1. 대기중
-![poster](./output1.png)
-
+<img src="output1.png" alt="poster" width="70%">
 2. 자동 조정 중
-![poster](./output2.png)
-
+<img src="output2.png" alt="poster" width="70%">
 3. 수동 조정 중
-![poster](./output3.png)
+<img src="output3.png" alt="poster" width="70%">
