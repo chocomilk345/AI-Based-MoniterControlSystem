@@ -6,7 +6,7 @@ AI를 이용한 스마트 모니터 제어 시스템
 
 
 ## High Level Design
-* flow chart
+* Flow chart
 ![poster](./flowchart.jpg)
 
 * 아키텍쳐
@@ -19,7 +19,7 @@ git clone https://github.com/KORIDO1234/gopenvino.git
 
 ## Prerequite
 
-### desktop 설정
+### Desktop 설정
 1. clone한 폴더로 이동
 ```
 cd ./gopoenvino
@@ -53,6 +53,7 @@ cd ./src/desktop
 python face_recog_arduino.py
 ```
 * 오류 발생 시 face_recog_arduino.py 아두이노 포트 번호, 이미지파일 경로, json파일 경로, 모델 경로 확인
+  
 ## Output
 1. 대기중
 <img src="output1.png" alt="poster" width="70%">
